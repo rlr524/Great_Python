@@ -40,7 +40,7 @@ def initializeGrid(board):
 initialize(board)
 
 # State main variables
-score = 100
+score = 0
 turn = 100
 goalScore = 100
 
